@@ -1,4 +1,6 @@
 # a11y for everyone!
+
+## Informations
 Easily add Accessibility Features to any HTML Homepage
 
 Just do the following in your web root:
@@ -21,3 +23,14 @@ Font by: [OpenDyslexic](https://opendyslexic.org) / https://github.com/antijingo
 Feel free to send Pull Requests to improve or ask for features <3 
 
 See in action: https://thiesmueller.de
+
+
+## Features
+- Make Font Larger
+- Make Font Smaller
+- Set Grayscale
+- Set Negative Colors
+- Change Font to OpenDyslexic
+- Reset to Default
+
+Blends into existing css, without invading existing button element styles.
