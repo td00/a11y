@@ -16,6 +16,8 @@ If you don't want to selfhost it you can add these lines:
 <script src="https://a11y.tservic.es/a11y.js"></script>
 ```
 
-Font by: [OpenDyslexic](https://opendyslexic.org)
+Font by: [OpenDyslexic](https://opendyslexic.org) / https://github.com/antijingoist/opendyslexic
 
-Feel free to send PR to improve <3 
+Feel free to send Pull Requests to improve or ask for features <3 
+
+See in action: https://thiesmueller.de
