@@ -74,7 +74,7 @@ document.querySelectorAll('#accessibility-menu button').forEach((button, index) 
                 document.body.style.fontSize = '1.2em';
                 document.body.style.filter = 'grayscale(0%)';
                 document.body.style.filter = 'invert(0%)';
-                document.body.style.fontFamily = 'Source Sans Pro';
+                document.body.classList.remove('opendyslexic');
                 break;
             case 6:
                 window.open("https://github.com/td00/a11y");
