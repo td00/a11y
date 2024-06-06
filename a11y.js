@@ -41,6 +41,13 @@ accessibilityOptions.forEach(option => {
     button.textContent = option;
     button.style.display = 'block'; // Display each button on a new line
     button.style.marginBottom = '5px'; // Add spacing between buttons
+    button.style.color = '#000';
+    button.style.backgroundColor = 'transparent';
+    button.style.border = 'none';
+    button.style.textAlign = 'left';
+    button.style.width = '100%';
+    button.style.padding = '10px';
+    button.style.cursor = 'pointer';
     accessibilityMenu.appendChild(button);
 });
 
