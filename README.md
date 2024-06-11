@@ -4,7 +4,7 @@
 Easily add Accessibility Features to any HTML Homepage
 
 Just do the following in your web root:
-`git clone https://github.com/td00/a11y`
+`git clone https://git.tservic.es/thies/a11y` (you can also use td00/a11y on GitHub if you trust Microsoft more then me :) ) 
 and add the following 2 lines to any webpage you wanna have this feature:
 ```
 <link rel="stylesheet" href="/a11y/a11y.css" />
