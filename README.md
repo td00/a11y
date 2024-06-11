@@ -22,7 +22,7 @@ Font by: [OpenDyslexic](https://opendyslexic.org) / [antijingoist/opendyslexic](
 
 Feel free to send Pull Requests to improve or ask for features <3 
 
-See in action: https://thiesmueller.de
+Example: https://a11y.tservic.es
 
 
 ## Features
@@ -34,3 +34,8 @@ See in action: https://thiesmueller.de
 - Reset to Default
 
 Blends into existing css, without invading existing button element styles.
+
+## See in Action:
+
+- https://lavalaempchen.de
+- https://thiesmueller.de
